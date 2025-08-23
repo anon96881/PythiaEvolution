@@ -1,0 +1,60 @@
+{
+  "metrics": {
+    "embeddings": 16,
+    "mean_dist": 0.7082630395889282,
+    "mean_intra": 0.10173851251602173,
+    "mean_inter": 0.8083689212799072,
+    "max_dist": 0.9103354811668396,
+    "num_clusters": 9,
+    "single_element_clusters": 6,
+    "largest_cluster_size": 6,
+    "smallest_cluster_size": 1,
+    "cluster_sizes": {
+      "5": 1,
+      "1": 2,
+      "7": 1,
+      "4": 1,
+      "8": 1,
+      "0": 2,
+      "3": 6,
+      "6": 1,
+      "2": 1
+    }
+  },
+  "labels": [
+    5,
+    1,
+    1,
+    7,
+    4,
+    8,
+    0,
+    3,
+    0,
+    6,
+    3,
+    3,
+    3,
+    2,
+    3,
+    3
+  ],
+  "text_examples": [
+    "oulter = \n",
+    " guest role in the television series Judge John Deed",
+    " guest appearance on a two @-@ part episode",
+    " Dominic Hall . Boulter received a favorable",
+    " Charles Spencer noted , \" Robert Boulter brings",
+    " dwelling upon his own misfortunes . Du Fu",
+    " focused on his strong sense of history , his moral",
+    "\u01d0 ) . The most directly historical of his",
+    " based on emotion rather than calculation : his prescriptions have",
+    " ignited a controversy that has persisted to the present",
+    "\u01dcshi , a type of poem with strict",
+    "\u01dcshi use the parallelisms required by the",
+    "\u01dcshi from mere word play into \" a",
+    " seminars on Du Fu 's poetry both in",
+    "\u01dcshi ( \u675c\u5f8b\u96c6",
+    "\u01dcshi ) , and accommodating the complex all"
+  ]
+}

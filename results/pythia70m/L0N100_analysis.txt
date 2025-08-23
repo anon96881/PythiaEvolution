@@ -1,0 +1,41 @@
+=== Analysis for L0N100 ===
+Total checkpoints: 15
+
+📈 Cluster Evolution:
+  Step 3000: 23 clusters (largest: 12, single: 7)
+  Step 13000: 25 clusters (largest: 11, single: 7)
+  Step 23000: 22 clusters (largest: 13, single: 4)
+  Step 33000: 22 clusters (largest: 14, single: 4)
+  Step 43000: 25 clusters (largest: 13, single: 8)
+  Step 53000: 24 clusters (largest: 13, single: 6)
+  Step 63000: 12 clusters (largest: 63, single: 2)
+  Step 73000: 8 clusters (largest: 77, single: 3)
+  Step 83000: 8 clusters (largest: 83, single: 3)
+  Step 93000: 4 clusters (largest: 88, single: 1)
+  Step 103000: 4 clusters (largest: 90, single: 1)
+  Step 113000: 2 clusters (largest: 9, single: 0)
+  Step 123000: 2 clusters (largest: 9, single: 0)
+  Step 133000: 2 clusters (largest: 7, single: 0)
+  Step 143000: 2 clusters (largest: 7, single: 0)
+
+🔍 Detailed Analysis at Step 143000:
+  Total embeddings: 13
+  Number of clusters: 2
+  Single-element clusters: 0
+  Largest cluster size: 7
+  Smallest cluster size: 6
+  Cluster sizes: {'1': 6, '0': 7}
+
+📝 Text Examples by Cluster:
+
+  Cluster 0 (7 examples):
+    1.  direct and colloquial to the allusive and self
+    2.  direct @-@ drive steam turbines , each of
+    3.  direct hits and up to 30 near misses . She
+    ... and 4 more examples
+
+  Cluster 1 (6 examples):
+    1.  official , his youth was spent on the standard education
+    2.  official career . He took the civil service exam a
+    3.  official career . Even before he had begun work ,
+    ... and 3 more examples

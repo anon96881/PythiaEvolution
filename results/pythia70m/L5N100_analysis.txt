@@ -1,0 +1,36 @@
+=== Analysis for L5N100 ===
+Total checkpoints: 15
+
+📈 Cluster Evolution:
+  Step 3000: 4 clusters (largest: 37, single: 0)
+  Step 13000: 3 clusters (largest: 51, single: 0)
+  Step 23000: 2 clusters (largest: 63, single: 0)
+  Step 33000: 2 clusters (largest: 99, single: 1)
+  Step 43000: 1 clusters (largest: 100, single: 0)
+  Step 53000: 1 clusters (largest: 100, single: 0)
+  Step 63000: 1 clusters (largest: 33, single: 0)
+  Step 73000: 1 clusters (largest: 26, single: 0)
+  Step 83000: 1 clusters (largest: 20, single: 0)
+  Step 93000: 1 clusters (largest: 21, single: 0)
+  Step 103000: 1 clusters (largest: 16, single: 0)
+  Step 113000: 1 clusters (largest: 16, single: 0)
+  Step 123000: 1 clusters (largest: 13, single: 0)
+  Step 133000: 1 clusters (largest: 15, single: 0)
+  Step 143000: 1 clusters (largest: 14, single: 0)
+
+🔍 Detailed Analysis at Step 143000:
+  Total embeddings: 14
+  Number of clusters: 1
+  Single-element clusters: 0
+  Largest cluster size: 14
+  Smallest cluster size: 14
+  Cluster sizes: {'0': 14}
+
+📝 Text Examples by Cluster:
+
+  Cluster 0 (14 examples):
+    1.  Paris Leonti . 
+
+    2.  à la Fugazi or System of a Down
+    3.  from Laird , the first full @-@
+    ... and 11 more examples
